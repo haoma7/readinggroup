@@ -20,9 +20,9 @@ description: :)
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "http://haoma7.github.io"
-  Blogs: "htpp://haoma7.github.io/blog"
-  DataComm Reading Group: "http://haoma7.github.io/readinggroup"
+  About Me: "https://haoma7.github.io"
+  Blogs: "https://haoma7.github.io/blog"
+  DataComm Reading Group: "https://haoma7.github.io/readinggroup"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
