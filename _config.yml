@@ -20,9 +20,9 @@ description: :)
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "index"
-  Blogs: "blog"
-  DataComm Reading Group: "reading"
+  About Me: "http://haoma7.github.io"
+  Blogs: "htpp://haoma7.github.io/blog"
+  DataComm Reading Group: "http://haoma7.github.io/readinggroup"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -163,7 +163,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "/readinggroup/page:num/"
 
 
 kramdown:
