@@ -7,19 +7,19 @@
 * Communication: Email and Slack. 
 
 ### Schedule
-Week | Presenter | Task | Reference 
------|-----------|------|----------
-03.16 - 03.22| Hao | Chapter 1 & 2 | 
-03.23 - 03.29|     | Chapter 3 & 4 |
-03.30 - 04.05|     | Chapter 5 & 6 | 
-04.06 - 04.12|     | Chapter 7 & 8 |
-04.13 - 04.19|     | Chapter 8 & 9 |
-04.20 - 04.26|     | Chapter 10 & 11|
-04.27 - 05.03|     | Chapter 12 & 13|
-05.04 - 05.10|     | Chapter 13 & 14|
-05.11 - 05.17|     | Chapter 15 & 16|
-05.18 - 05.24|     | Chapter 17 & 18|
-05.25 - 05.31| Hao | Chapter 19
+|Week | Presenter | Task | Reference| 
+|-----|-----------|------|----------|
+|03.16 - 03.22| Hao | Chapter 1 & 2 | 
+|03.23 - 03.29|     | Chapter 3 & 4 |
+|03.30 - 04.05|     | Chapter 5 & 6 | 
+|04.06 - 04.12|     | Chapter 7 & 8 |
+|04.13 - 04.19|     | Chapter 8 & 9 |
+|04.20 - 04.26|     | Chapter 10 & 11|
+|04.27 - 05.03|     | Chapter 12 & 13|
+|05.04 - 05.10|     | Chapter 13 & 14|
+|05.11 - 05.17|     | Chapter 15 & 16|
+|05.18 - 05.24|     | Chapter 17 & 18|
+|05.25 - 05.31| Hao | Chapter 19|
 
 
 Referece:
