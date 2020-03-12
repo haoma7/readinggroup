@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: "" 
+title: 
 
 # Short description of your site
 description: Just another Github page
@@ -23,18 +23,18 @@ navbar-links:
   About Me: "https://haoma7.github.io"
   Blogs: "https://haoma7.github.io/blog"
   DataComm Reading Group: "https://haoma7.github.io/readinggroup"
-#  Resources:
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#    - Learn markdown: "http://www.markdowntutorial.com/"
-  
+  # Resources:
+  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  # - Learn markdown: "http://www.markdowntutorial.com/"
+  # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/hao.jpg"
+# avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: "/img/hao.jpg"
+# title-img: /path/to/image
 
 # --- Background colour/image options --- #
 
@@ -71,9 +71,9 @@ author:
 social-network-links:
   rss: true
   email: "haoma7@gmail.com"
-  #facebook: 
+  # facebook: deanattali
   github: haoma7
-  #twitter: 
+  # twitter: daattali
 #  reddit: yourname
   linkedin: mahao
 #  xing: yourname
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "haoma7.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "haoma7.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -163,7 +163,6 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-
 
 kramdown:
   input: GFM
