@@ -7,6 +7,15 @@
 * Communication: Email and Slack. 
 
 ### Schedule
+
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
+
+
 |Week | Presenter | Task | Reference| 
 |-----|-----------|------|----------|
 |03.16 - 03.22| Hao | Chapter 1 2 | |
