@@ -3,9 +3,9 @@
 ### Introduction
 * Task: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 
 * Duration: ~ 10 weeks
-* Location and Time: TBD.  
+* Time: Thursday 10am - 12 pm.  
 * Communication: Email/Slack/Zoom
-
+* Zoom Link: Please refer to the channel description of #general-announcement channel in Slack.  
 ### Schedule
 
 
