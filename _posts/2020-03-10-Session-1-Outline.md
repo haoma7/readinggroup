@@ -18,7 +18,7 @@
 |04.27 - 05.03|  Lutz, Mostafa  | Chapter 9-10| |
 |05.04 - 05.10|  ?   | Chapter 11-12| |
 |05.11 - 05.17|  ?   | Chapter 13-14| |
-|05.18 - 05.24|     | Chapter 15-16| |
+|05.18 - 05.24| Yinjia    | Chapter 15-16| |
 |05.25 - 05.31| Mostafa | Chapter 17-18| |
 |05.25 - 05.31| Hao | Chapter 19| |
 
