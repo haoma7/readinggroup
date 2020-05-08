@@ -20,7 +20,7 @@
 |05.11 - 05.17|  Hao   | Chapter 12-13| |
 |05.18 - 05.24| Lutz    | Chapter 14| |
 |05.25 - 05.31| Yinjia | Chapter 15-16| |
-[06.01 - 06.07| Mostafa| Chapter 17-18| |
+|06.01 - 06.07| Mostafa, Faramarz| Chapter 17-18| |
 |06.07 - 06.13| Hao | Chapter 19| |
 
 
