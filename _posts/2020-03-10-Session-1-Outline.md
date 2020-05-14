@@ -20,11 +20,10 @@
 |05.11 - 05.17|  Yinjia  | Chapter 11| |
 |05.18 - 05.24|  :laughing: **Halftime Break** :laughing:    | | |
 |05.25 - 05.31| Hao | Chapter 12-13| |
-|06.01 - 06.07| Yinjia | Chapter 12-13| |
-|06.08 - 06.14| Lutz    | Chapter 14| |
-|06.15 - 06.21| Yinjia | Chapter 15-16| |
-|06.22 - 06.28| Mostafa, Faramarz| Chapter 17-18| |
-|06.29 - 07.06| Hao | Chapter 19| |
+|06.01 - 06.07| Lutz| Chapter 14| |
+|06.08 - 06.14| Yinjia    | Chapter 15-16| |
+|06.15 - 06.21| Mostafa, Faramarz| Chapter 17-18| |
+|06.22 - 06.28| Hao | Chapter 19| |
 
 
 References:
