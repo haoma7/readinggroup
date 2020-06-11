@@ -23,10 +23,12 @@
 |06.01 - 06.07| Lutz| Chapter 14| |
 |06.08 - 06.14| Yinjia    | Chapter 15| |
 |06.15 - 06.21| Faramarz| Chapter 17| |
-|06.22 - 06.28| Mostafa | Chapter 18| |
-|06.29 - 07.06| Hao | Chapter 16| |
-|07.07 - 07.13| Hao | Chapter 19| |
-|07.14 - 07.20| Hao | Chapter 13| |
+|06.22 - 06.28| **Break** | | |
+|06.29 - 07.06| Mostafa | Chapter 18| |
+|07.07 - 07.13| Hao | Chapter 16| |
+|07.14 - 07.20| Hao | Chapter 17| |
+|07.21 - 07.27| Hao | Chapter 13| |
+
 
 
 
