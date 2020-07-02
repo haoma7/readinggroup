@@ -25,8 +25,9 @@
 |06.15 - 06.21| Faramarz| Chapter 17| |
 |06.22 - 06.28| **Break** | | |
 |06.29 - 07.06| Mostafa | Chapter 18| |
-|07.07 - 07.13| Hao | Chapter 16| |
-|07.14 - 07.20| Hao | Chapter 13,19| |
+|07.07 - 07.13| **Break** | | |
+|07.14 - 07.20|3| Hao | Chapter 16| |
+|07.21 - 07.27| Hao | Chapter 13,19| |
 
 
 
