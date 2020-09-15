@@ -1,7 +1,9 @@
 
 ## DL-based Combinatorial Optimization in Wireless Communication
 
-##### Section 1: Sequence-to-Sequence Learning
+(Feel free to post an issue or create a pull request if you would like to add more relevant papers/references to the topics or to improve the categorization or formatting)
+
+#### Section 1: Sequence-to-Sequence Learning
 
 - [A Deep Neural Network Approach for Mobile Edge Computation Offloading](https://ieeexplore.ieee.org/iel7/9048178/9066348/09066358.pdf?casa_token=Z7RIhhAd6dAAAAAA:0NdHvG5u27SoVv8pOLaVEEK8I5bdbSFD4hHkNNgEAdAi-PfKT548HWY19uh23HPNLm-12xx_)
 - [Computation offloading in multi-access edge computing using a deep sequential model based on reinforcement learning](https://ieeexplore.ieee.org/iel7/35/8713642/08713801.pdf?casa_token=f_k6UQ4VgwgAAAAA:4LSvLAYnQ-nb3-00kqUfLgP-N89iITRqxNgkQATa5h0hRVyImwmakH3JddEEIaOk5c21dWeV)
@@ -27,6 +29,7 @@ Background:
 - [Attention is all you need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 - [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) 
 - [Attention, learn to solve routing problems!](https://arxiv.org/pdf/1803.08475.pdf)
+
 <hr>
 
 #### Section 3: Reforcement Learning;
@@ -37,12 +40,16 @@ Background:
 Background:
 - [Machine Learning for Humans, Part 5: Reinforcement Learning](https://medium.com/machine-learning-for-humans/reinforcement-learning-6eacf258b265)
 
+<hr>
+
 #### Section 4: RL on Graphs
 
 - [Learning Combinatorial Optimization on Graphs: A Survey with Applications to Networking](https://arxiv.org/pdf/2005.11081)
 
 Background:
 - [Learning combinatorial optimization algorithms over graphs](http://papers.nips.cc/paper/7214-learning-combinatorial-optimization-algorithms-over-graphs.pdf)
+
+<hr>
 
 #### Section 5: Graph Neural Network
 - [A Graph Neural Network Approach for Scalable Wireless Power Control](https://arxiv.org/pdf/1907.08487)
@@ -64,4 +71,5 @@ Background:
 
 - [ON LEARNING AND BRANCHING: A SURVEY](https://cerc-datascience.polymtl.ca/wp-content/uploads/2017/04/CERC_DS4DM_2017_004-1.pdf)
 - [Learning to Branch in Mixed Integer Programming](https://www.cc.gatech.edu/~lsong/papers/KhaLebSonNemDil16.pdf)
+
 <hr>
