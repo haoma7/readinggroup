@@ -12,7 +12,7 @@
 
 Background: 
 
-- [Lecture by Samy Begio 2017](https://www.youtube.com/watch?v=mxCVgVrUw50)</a></dd>
+- [Lecture by Samy Begio 2017](https://www.youtube.com/watch?v=mxCVgVrUw50)
 - [Neural combinatorial optimization with reinforcement learning](https://arxiv.org/pdf/1611.09940)
 - [Pointer Network](https://arxiv.org/abs/1506.03134)
 
