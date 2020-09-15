@@ -1,9 +1,9 @@
 
-## DL-based Combinatorial Optimization in Wireless Communication
+# DL-based Combinatorial Optimization in Wireless Communication
 
 (Feel free to post an issue or create a pull request if you would like to add more relevant papers/references to the topics or to improve the categorization or formatting)
 
-#### Section 1: Sequence-to-Sequence Learning
+### Section 1: Sequence-to-Sequence Learning
 
 - [A Deep Neural Network Approach for Mobile Edge Computation Offloading](https://ieeexplore.ieee.org/iel7/9048178/9066348/09066358.pdf?casa_token=Z7RIhhAd6dAAAAAA:0NdHvG5u27SoVv8pOLaVEEK8I5bdbSFD4hHkNNgEAdAi-PfKT548HWY19uh23HPNLm-12xx_)
 - [Computation offloading in multi-access edge computing using a deep sequential model based on reinforcement learning](https://ieeexplore.ieee.org/iel7/35/8713642/08713801.pdf?casa_token=f_k6UQ4VgwgAAAAA:4LSvLAYnQ-nb3-00kqUfLgP-N89iITRqxNgkQATa5h0hRVyImwmakH3JddEEIaOk5c21dWeV)
@@ -18,7 +18,7 @@ Background:
 
 <hr>
 
-#### Section 2: Attention
+### Section 2: Attention
 - [Topology Aware Deep Learning for Wireless Network Optimization](https://arxiv.org/pdf/1912.08336)
 - [Embeddable Convolutional layer-based Filter for Wireless Signal Detection](https://ieeexplore-ieee-org.ezproxy.library.ubc.ca/abstract/document/8902893?casa_token=KN2_823IKUAAAAAA:1H_hfiGWNM0JiaGhNaxuXzlWb_2248XEiUs4Ae5sqlae7jMV41DYw52gIgC1EfkaAREF44FF)
 - [Joint Power Allocation and Channel Assignment for NOMA With Deep Reinforcement Learning](https://ieeexplore-ieee-org.ezproxy.library.ubc.ca/stamp/stamp.jsp?tp=&arnumber=8790780)
@@ -32,7 +32,7 @@ Background:
 
 <hr>
 
-#### Section 3: Reforcement Learning;
+### Section 3: Reforcement Learning;
 
 - [Deep Learning Based Energy Efficiency Optimization for Distributed Cooperative Spectrum Sensing](https://ieeexplore.ieee.org/iel7/7742/8752467/08752480.pdf?casa_token=DFrjXN9H-dUAAAAA:8trGMXXg_PwvuqtZKVxKKSS1LmYMY2jlaw0EnzgCQcKaamXcOWB2SCRt5Wca_bCIqtIDjPHa)
 - [Neural Combinatorial Deep Reinforcement Learning for Age-optimal Joint Trajectory and Scheduling Design in UAV-assisted Networks](https://arxiv.org/pdf/2006.15863)
@@ -42,7 +42,7 @@ Background:
 
 <hr>
 
-#### Section 4: RL on Graphs
+### Section 4: RL on Graphs
 
 - [Learning Combinatorial Optimization on Graphs: A Survey with Applications to Networking](https://arxiv.org/pdf/2005.11081)
 
@@ -51,7 +51,7 @@ Background:
 
 <hr>
 
-#### Section 5: Graph Neural Network
+### Section 5: Graph Neural Network
 - [A Graph Neural Network Approach for Scalable Wireless Power Control](https://arxiv.org/pdf/1907.08487)
 - [Graph Neural Networks for Scalable RadioResource Management: Architecture Designand Theoretical Analysis](https://arxiv.org/pdf/2007.07632)
 
@@ -62,7 +62,7 @@ Background:
 
 <hr>
 
-##### Section 6: Transfer Learning; Integer Optimization;
+### Section 6: Transfer Learning; Integer Optimization;
 
 - [LORM: Learning to optimize for resource management in wireless networks with few training samples](https://ieeexplore-ieee-org.ezproxy.library.ubc.ca/stamp/stamp.jsp?arnumber=8879693&casa_token=PnmjhXFFUD4AAAAA:AN2B1cs0ASn4DXtFgfph7GuSes2HGwiadqOH-tCZD6E1K-_0LKSMlZM8_OsSeFQBNxmnWWrO)
 - [Transfer learning for mixed-integer resource allocation problems in wireless networks](https://ieeexplore-ieee-org.ezproxy.library.ubc.ca/stamp/stamp.jsp?arnumber=8761327&casa_token=XTpyr8ixxq8AAAAA:S9aK27QkeGJv4ChauP0RaCJogFtQYl0WdZ1ciBm0DhBn45ztYihVhHFSljBY5Oucqev6529I)
