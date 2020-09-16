@@ -32,7 +32,7 @@ Background:
 
 <hr>
 
-### Section 3: Reforcement Learning;
+### Section 3: Reinforcement Learning;
 
 - [Deep Learning Based Energy Efficiency Optimization for Distributed Cooperative Spectrum Sensing](https://ieeexplore.ieee.org/iel7/7742/8752467/08752480.pdf?casa_token=DFrjXN9H-dUAAAAA:8trGMXXg_PwvuqtZKVxKKSS1LmYMY2jlaw0EnzgCQcKaamXcOWB2SCRt5Wca_bCIqtIDjPHa)
 - [Neural Combinatorial Deep Reinforcement Learning for Age-optimal Joint Trajectory and Scheduling Design in UAV-assisted Networks](https://arxiv.org/pdf/2006.15863)
