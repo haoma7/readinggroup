@@ -3,7 +3,17 @@
 
 (Feel free to post an issue or create a pull request if you would like to add more relevant papers/references to the topics or to improve the categorization or formatting)
 
-### Section 1: Sequence-to-Sequence Learning
+### Section 1: Reinforcement Learning;
+
+- [Deep Learning Based Energy Efficiency Optimization for Distributed Cooperative Spectrum Sensing](https://ieeexplore.ieee.org/iel7/7742/8752467/08752480.pdf?casa_token=DFrjXN9H-dUAAAAA:8trGMXXg_PwvuqtZKVxKKSS1LmYMY2jlaw0EnzgCQcKaamXcOWB2SCRt5Wca_bCIqtIDjPHa)
+- [Neural Combinatorial Deep Reinforcement Learning for Age-optimal Joint Trajectory and Scheduling Design in UAV-assisted Networks](https://arxiv.org/pdf/2006.15863)
+
+Background:
+- [Machine Learning for Humans, Part 5: Reinforcement Learning](https://medium.com/machine-learning-for-humans/reinforcement-learning-6eacf258b265)
+
+<hr>
+
+### Section 2: Sequence-to-Sequence Learning
 
 - [A Deep Neural Network Approach for Mobile Edge Computation Offloading](https://ieeexplore.ieee.org/iel7/9048178/9066348/09066358.pdf?casa_token=Z7RIhhAd6dAAAAAA:0NdHvG5u27SoVv8pOLaVEEK8I5bdbSFD4hHkNNgEAdAi-PfKT548HWY19uh23HPNLm-12xx_)
 - [Computation offloading in multi-access edge computing using a deep sequential model based on reinforcement learning](https://ieeexplore.ieee.org/iel7/35/8713642/08713801.pdf?casa_token=f_k6UQ4VgwgAAAAA:4LSvLAYnQ-nb3-00kqUfLgP-N89iITRqxNgkQATa5h0hRVyImwmakH3JddEEIaOk5c21dWeV)
@@ -18,7 +28,7 @@ Background:
 
 <hr>
 
-### Section 2: Attention
+### Section 3: Attention
 - [Topology Aware Deep Learning for Wireless Network Optimization](https://arxiv.org/pdf/1912.08336)
 - [Embeddable Convolutional layer-based Filter for Wireless Signal Detection](https://ieeexplore-ieee-org.ezproxy.library.ubc.ca/abstract/document/8902893?casa_token=KN2_823IKUAAAAAA:1H_hfiGWNM0JiaGhNaxuXzlWb_2248XEiUs4Ae5sqlae7jMV41DYw52gIgC1EfkaAREF44FF)
 - [Joint Power Allocation and Channel Assignment for NOMA With Deep Reinforcement Learning](https://ieeexplore-ieee-org.ezproxy.library.ubc.ca/stamp/stamp.jsp?tp=&arnumber=8790780)
@@ -32,15 +42,7 @@ Background:
 
 <hr>
 
-### Section 3: Reinforcement Learning;
 
-- [Deep Learning Based Energy Efficiency Optimization for Distributed Cooperative Spectrum Sensing](https://ieeexplore.ieee.org/iel7/7742/8752467/08752480.pdf?casa_token=DFrjXN9H-dUAAAAA:8trGMXXg_PwvuqtZKVxKKSS1LmYMY2jlaw0EnzgCQcKaamXcOWB2SCRt5Wca_bCIqtIDjPHa)
-- [Neural Combinatorial Deep Reinforcement Learning for Age-optimal Joint Trajectory and Scheduling Design in UAV-assisted Networks](https://arxiv.org/pdf/2006.15863)
-
-Background:
-- [Machine Learning for Humans, Part 5: Reinforcement Learning](https://medium.com/machine-learning-for-humans/reinforcement-learning-6eacf258b265)
-
-<hr>
 
 ### Section 4: RL on Graphs
 
